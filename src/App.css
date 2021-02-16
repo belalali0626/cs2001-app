@@ -7,7 +7,6 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 12vh;
-    background: rgb(73, 79, 82);
     color: white;
 }
 
@@ -27,7 +26,9 @@ nav {
 
 div.MainBody {
     height: 10em;
-    position: relative }
+    position: relative 
+}
+
 div.MainBody p {
     margin: 0;
     position: absolute;
